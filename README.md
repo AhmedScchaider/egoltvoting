@@ -1,4 +1,5 @@
 # Egolt Voting
+### Let the users rate your contents!
 This is a small and smart project ,including a plugin and a module, which enable the users rate your contents!
 
 ## No Support

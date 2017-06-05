@@ -1,7 +1,8 @@
 # Egolt Voting
 This is a small and smart product ,including a plugin and a module, which enable the users rate your contents!
 
-This product is fully free, including the Download, Updates and Support!
+## No longer Supported
+I make it available free of charge to everyone in hope that it will be useful. However, I will not accept any feature requests, feature patches or support requests. Emails (including through my personal website's contact form), GitHub Issues and Pull Requests containing any of these will be deleted / closed without reply. Thank you for your understanding.
 
 ## Main Features
 
@@ -20,7 +21,11 @@ This product is fully free, including the Download, Updates and Support!
 * Automatic Updates
 * No Hidden Links
 
+## Setup
+You can install this product by downloading the zip file of repository and then using the Joomla! extension manager available in the Joomla! Administrator Control Panel.
+
 ## Open Source License
 
 Egolt Voting is an Open Source web-based product. It is in compliance with the GNU/GPL license:
-GNU General Public License, version 2
+[GNU General Public License, version 2
+](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)

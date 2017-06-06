@@ -2,9 +2,6 @@
 ### Let the users rate your contents!
 This is a small and smart Joomla! extension ,including a plugin and a module, which enables the users rate your contents!
 
-## No Support
-I make this project available free of charge to everyone in hope that it will be useful. However, I will not accept any feature requests, feature patches or support requests. Emails, GitHub Issues and Pull Requests containing any of these will be deleted / closed without reply. Thank you for your understanding.
-
 ## Main Features
 * "Egolt Voting Plugin" for rate contents
 * "Egolt Voting Module" for displaying top rated contents by duration
@@ -22,6 +19,9 @@ I make this project available free of charge to everyone in hope that it will be
 
 ## Setup
 You can install this project by downloading the zip file of repository and then using the Joomla! extension manager available in the Joomla! Administrator Control Panel.
+
+## No Support
+I make this project available free of charge to everyone in hope that it will be useful. However, I will not accept any feature requests, feature patches or support requests. Emails, GitHub Issues and Pull Requests containing any of these will be deleted / closed without reply. Thank you for your understanding.
 
 ## Open Source License
 

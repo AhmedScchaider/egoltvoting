@@ -1,6 +1,6 @@
 # Egolt Voting
 ### Let the users rate your contents!
-This is a small and smart project ,including a plugin and a module, which enable the users rate your contents!
+This is a small and smart Joomla! extension ,including a plugin and a module, which enables the users rate your contents!
 
 ## No Support
 I make this project available free of charge to everyone in hope that it will be useful. However, I will not accept any feature requests, feature patches or support requests. Emails, GitHub Issues and Pull Requests containing any of these will be deleted / closed without reply. Thank you for your understanding.
